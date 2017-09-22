@@ -1,0 +1,10 @@
+*_instances_*
+*.zip
+experiments/
+.DS_Store
+*.pyc
+result_images
+weka.jar
+dataset-a.csv
+dataset-a.csv.arff
+dataset-b.csv
